@@ -2,7 +2,7 @@ Source: ros-melodic-ros-babel-fish
 Section: misc
 Priority: optional
 Maintainer: Stefan Fabian <ros_babel_fish@stefanfabian.me>
-Build-Depends: debhelper (>= 9.0.0), hector-melodic-ros-babel-fish-test-msgs, openssl, ros-melodic-actionlib, ros-melodic-catkin, ros-melodic-rosapi, ros-melodic-roscpp, ros-melodic-roscpp-tutorials, ros-melodic-roslib, ros-melodic-std-msgs
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-ros-babel-fish-test-msgs, openssl, ros-melodic-actionlib, ros-melodic-catkin, ros-melodic-rosapi, ros-melodic-roscpp, ros-melodic-roscpp-tutorials, ros-melodic-roslib, ros-melodic-std-msgs
 Homepage: 
 Standards-Version: 3.9.2
 

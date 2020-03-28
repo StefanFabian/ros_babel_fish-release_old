@@ -2,6 +2,9 @@
 Changelog for package ros_babel_fish
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.1 (2020-03-28)
+------------------
+
 0.8.0 (2020-03-20)
 ------------------
 * Updated install targets and added OpenSSL to dependencies.
